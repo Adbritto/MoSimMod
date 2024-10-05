@@ -1,4 +1,4 @@
 # MoSimPublic
- The public repo for the FRC Driving Simulator MoSim
+ A mod for the FRC Driving Simulator MoSim
 
- If you fork this project and make changes to it, please credit me.
+ Credit to [GreenMachineStudios](https://github.com/GreenMachineStudios)(Mo) for originally creating MoSim
